@@ -28,6 +28,12 @@ const Footer = () => {
             rkingjr@outlook.com
           </LinkItem>
         </LinkColumn>
+        <LinkColumn>
+          <LinkTitle>Resume</LinkTitle>
+          <LinkItem href="https://drive.google.com/file/d/131E-Q8pinE4MnFa7G7Rw1DZX5OhzluYY/view?usp=sharing">
+            CLICK TO DOWNLOAD
+          </LinkItem>
+        </LinkColumn>
       </LinkList>
       <SocialIcons>
         <SocialIconsContainer>

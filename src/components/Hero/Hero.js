@@ -18,6 +18,7 @@ const Hero = (props) => (
         Randy's Portfolio
       </SectionTitle>
       <SectionText>Full Stack Web Developer</SectionText>
+      <img src='../../../public/images/profile.jpeg'></img>
       <Button onClick={() => (window.location = "#about")}>Learn More</Button>
     </LeftSection>
   </Section>
