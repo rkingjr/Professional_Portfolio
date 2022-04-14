@@ -36,13 +36,13 @@ const Header = () =>  (
           </NavLink>
         </Link>
       </li>
-      <li>
+      {/* <li>
         <Link href="#resume">
           <NavLink>
             Resume
           </NavLink>
         </Link>
-      </li>
+      </li> */}
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/rkingjr">
