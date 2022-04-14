@@ -22,8 +22,8 @@ export const projects = [
     description:"A clone of the classic game 'Snake' used to help me learn basic game mechanics.",
     image: '../images/3.png',
     tags: ['CSS', 'JavaScript', 'HTML'],
-    source: 'https://github.com/rkingjr/MERNcuriosityCabinet',
-    visit: 'https://mern-curiosity-cabinet.herokuapp.com/',
+    source: 'https://github.com/rkingjr/Snake_Clone',
+    visit: 'https://rkingjr.github.io/Snake_Clone/',
     id: 1,
   },
   {
@@ -31,14 +31,14 @@ export const projects = [
     description:"A clone of the classic game 'Pong' to help me better understand how to integrate math equations into code.",
     image: '../images/4.png',
     tags: ['CSS', 'JavaScript', 'HTML'],
-    source: 'https://github.com/rkingjr/MERNcuriosityCabinet',
-    visit: 'https://mern-curiosity-cabinet.herokuapp.com/',
+    source: 'https://github.com/rkingjr/Pong_Clone',
+    visit: 'https://rkingjr.github.io/Pong_Clone/',
     id: 1,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2005, text: 'Traveled internationally for the first time to Europe with my grandparents.', },
+  { image: '../images/4.png', year: 2005, text: 'Traveled internationally for the first time to Europe with my grandparents.', },
   { year: 2009, text: "Sailed to Newfoundland as a crew member of Maine Maritime Academy's schooner Bowdoin.", },
   { year: 2011, text: 'Studied abroad as part of the Danube Summer Institute to study the inner workings of the European Union.', },
   { year: 2013, text: 'Graduated from Texas A&M University with a BS in Political Science.', },
