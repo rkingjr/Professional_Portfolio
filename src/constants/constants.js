@@ -24,7 +24,7 @@ export const projects = [
     tags: ['CSS', 'JavaScript', 'HTML'],
     source: 'https://github.com/rkingjr/Snake_Clone',
     visit: 'https://rkingjr.github.io/Snake_Clone/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Pong Clone',
@@ -33,7 +33,16 @@ export const projects = [
     tags: ['CSS', 'JavaScript', 'HTML'],
     source: 'https://github.com/rkingjr/Pong_Clone',
     visit: 'https://rkingjr.github.io/Pong_Clone/',
-    id: 1,
+    id: 3,
+  },
+  {
+    title: 'Pong Clone',
+    description:"A clone of the dinosaur game you find on the Chrome browser when you have no internet connection.",
+    image: '../images/5.png',
+    tags: ['CSS', 'JavaScript', 'HTML'],
+    source: 'https://github.com/rkingjr/Chrome_Dinousaur_Game',
+    visit: 'https://rkingjr.github.io/Chrome_Dinousaur_Game/',
+    id: 4,
   },
 ];
 
