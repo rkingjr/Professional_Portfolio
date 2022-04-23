@@ -36,7 +36,7 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Pong Clone',
+    title: 'Chrome Dinosaur Game',
     description:"A clone of the dinosaur game you find on the Chrome browser when you have no internet connection.",
     image: '../images/5.png',
     tags: ['CSS', 'JavaScript', 'HTML'],
